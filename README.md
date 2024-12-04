@@ -1,6 +1,6 @@
 # Traffic Prediction Using Time Series Models
 
-This repository contains a Jupyter Notebook implementing and analyzing time series models for traffic prediction. The project utilizes **Prophet**, **SARIMA**, and **SARIMAX** to forecast traffic patterns based on historical data.
+This repository contains a Jupyter Notebook implementing and analyzing time series models for traffic prediction. The project utilizes **Prophet**, **SARIMA**, and **SARIMAX** to forecast traffic patterns based on historical data. This project was performed as a part of course - STAT 7110: Forecasting Methods for Management
 
 ---
 
